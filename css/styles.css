@@ -111,6 +111,25 @@ p{
 .pricing-col{
 	padding:3% 2%;
 }
+          /*CTA section*/
+#cta{
+	background-color: #ff4c68;
+	color: #ffffff;
+	padding: 7% 15%;
+	text-align: center;
+}
+.cta-heading{
+	font-size: 3.5rem;
+	line-height: 1.5;
+}
+     /*Footer section*/
+#footer{
+	padding:7% 15%;
+	text-align: center;
+}
+.footer-icon{
+	margin: 20px 10px;
+}
 
 @media (max-width: 1020px){
 	.title-image{

@@ -1,11 +1,9 @@
 body{
 	font-family: "Montserrat";
-	line-height: 3;
+	line-height: 1.4;
 }
-#title{
-	background-color: #ff4c68;
-	color: #ffffff;
-}
+
+
 h1{
 	font-family: "Montserrat";
 	font-weight: 900;
@@ -44,7 +42,10 @@ p{
 	font-weight: 400;
 }
 	/*title section*/
-
+#title{
+	background-color: #ff4c68;
+	color: #ffffff;
+}
 .download-button{
 	margin:5% 3% 5% 0;
 }
@@ -109,7 +110,7 @@ p{
 	text-align: center;
 }
 .pricing-col{
-	padding:3% 2%;
+	padding:2% 1%;
 }
           /*CTA section*/
 #cta{
